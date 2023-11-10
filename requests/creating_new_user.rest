@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "username": "todelete",
+    "name": "To Delete",
+    "id": 4,
+    "email": "todelete@gmail.com",
+    "password": "1245"
+}
